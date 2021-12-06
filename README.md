@@ -1,6 +1,6 @@
 # login-signup-authentication
 
-This is the code for authenticating users using passport.js and saving cookies to browser. 
+This is the code for authenticating users using passport.js and Google Oauth and saving cookies to browser. 
 
 # Features
 - User can login through google account.
